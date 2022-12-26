@@ -7,7 +7,7 @@ It is intended for speedcubers who solve the cube using CFOP to practise their F
 
 # How to Use
 
-1. Run F2L Scrambler.exe. The exe was compiled on Windows 8.1 platform. 
+1. Run F2L Scrambler.exe in the output folder. The exe was compiled on Windows 8.1 platform. 
 It may not work on other platforms.
 2. If the above fails, run main.py on your local machine. 
 You will need to have python installed.
